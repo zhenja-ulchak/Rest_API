@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "email451@email.com",
+      "name": "vh.v.",
+      "citi": "hv.vh.",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "citi": "волинь",
+      "name": "петя",
+      "email": "email3@mail.com"
+    },
+    {
+      "id": 5,
+      "citi": "мукачево",
+      "name": "вася",
+      "email": "email5@mail.com"
+    },
+    {
+      "id": 6,
+      "citi": "берегово",
+      "name": "даня",
+      "email": "email6@mail.com"
+    },
+    {
+      "user": {
+        "email": "email45@email.com",
+        "name": "sdf",
+        "citi": "mdmd"
+      },
+      "id": 7
+    },
+    {
+      "email": "email50@email.com",
+      "name": "fh,fh.,",
+      "citi": "jh,kfh,.",
+      "id": "55"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
